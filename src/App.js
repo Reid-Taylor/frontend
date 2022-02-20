@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          To die? ?, Edit <code>src/App.js</code> and save the toad or PERISH. AND SO THE WORLD ENDED
+          To die? ?, Edit <code>src/App.js</code> and save the toad or PERISH.
+          AND SO THE WORLD ENDED
         </p>
         <a
           className="App-link"
